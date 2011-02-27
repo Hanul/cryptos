@@ -1,0 +1,10 @@
+
+Cryptos Changes
+---------------
+
+2010-03-31 Mr. 하늘
+모듈 생성
+메소드:
+  getInstance()
+  decrypt(String)
+  encrypt(String)
